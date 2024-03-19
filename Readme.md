@@ -11,4 +11,4 @@ make
 ./simple-paxos
 ```
 
-Hope you like and enjoy **Paxos**.:smile:
+Hope you like and enjoy **Paxos**. :smile:
